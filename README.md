@@ -1,6 +1,6 @@
 # images.simplexshotz.tk
 
-code-blur.jpg
+code-blur.jpg / code.jpg
 https://wallpaperaccess.com/full/796832.jpg
 
 rhs.jpg
