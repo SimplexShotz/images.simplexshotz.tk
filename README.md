@@ -8,3 +8,6 @@ https://ids-michigan.com/wp-content/uploads/2018/12/Romeo-Community-Schools/Rome
 
 goals.png
 https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2018Q1/smart-goals/smart-goals-header@2x.png
+
+contact.jpg
+https://ccffcerritos.org/wp-content/uploads/2019/05/contact-us.jpg
