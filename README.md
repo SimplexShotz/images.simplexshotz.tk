@@ -9,11 +9,11 @@ https://ids-michigan.com/wp-content/uploads/2018/12/Romeo-Community-Schools/Rome
 goals.png:
 https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2018Q1/smart-goals/smart-goals-header@2x.png
 
+calendar.svg:
+https://www.heartyhomes.com.au/wp-content/uploads/intense-cache/icons/plugin/elusive/calendar-sign.svg
+
 contact.jpg:
 https://ccffcerritos.org/wp-content/uploads/2019/05/contact-us.jpg
 
 sources.png:
 https://www.monsterinsights.com/wp-content/uploads/2017/07/boost-seo-with-analytics.png
-
-calendar.png:
-https://www.iconfinder.com/icons/285670/calendar_icon
