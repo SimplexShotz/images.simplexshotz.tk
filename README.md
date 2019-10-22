@@ -11,3 +11,6 @@ https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2018Q1/smart-goals/smart-go
 
 contact.jpg:
 https://ccffcerritos.org/wp-content/uploads/2019/05/contact-us.jpg
+
+sources.png:
+https://www.monsterinsights.com/wp-content/uploads/2017/07/boost-seo-with-analytics.png
