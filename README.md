@@ -9,7 +9,7 @@ https://ids-michigan.com/wp-content/uploads/2018/12/Romeo-Community-Schools/Rome
 goals.png:
 https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2018Q1/smart-goals/smart-goals-header@2x.png
 
-calendar.svg:
+calendar.png:
 https://www.heartyhomes.com.au/wp-content/uploads/intense-cache/icons/plugin/elusive/calendar-sign.svg
 
 contact.jpg:
