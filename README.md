@@ -14,3 +14,6 @@ https://ccffcerritos.org/wp-content/uploads/2019/05/contact-us.jpg
 
 sources.png:
 https://www.monsterinsights.com/wp-content/uploads/2017/07/boost-seo-with-analytics.png
+
+calendar.png:
+https://www.iconfinder.com/icons/285670/calendar_icon
