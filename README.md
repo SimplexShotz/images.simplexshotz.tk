@@ -17,3 +17,6 @@ https://ccffcerritos.org/wp-content/uploads/2019/05/contact-us.jpg
 
 sources.png:
 https://www.monsterinsights.com/wp-content/uploads/2017/07/boost-seo-with-analytics.png
+
+COVID-19.png:
+https://www.state.gov/coronavirus/
