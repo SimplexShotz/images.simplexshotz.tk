@@ -24,5 +24,5 @@ https://www.state.gov/coronavirus/
 computer.jpg/computer-thin.png:
 TAKEN BY ME
 
-account.png:
+account.png/account-small.png:
 https://freesvg.org/user-icon
