@@ -23,3 +23,6 @@ https://www.state.gov/coronavirus/
 
 computer.jpg/computer-thin.png:
 TAKEN BY ME
+
+account.png:
+https://freesvg.org/user-icon
