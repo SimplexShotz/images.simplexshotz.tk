@@ -21,7 +21,7 @@ https://www.monsterinsights.com/wp-content/uploads/2017/07/boost-seo-with-analyt
 COVID-19.png:
 https://www.state.gov/coronavirus/
 
-computer.jpg/computer-thin.png/pole.jpg:
+computer.jpg/computer-thin.png/pole.jpg/friends.jpg:
 TAKEN BY ME
 
 account.png/account-small.png:
